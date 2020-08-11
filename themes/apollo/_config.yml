@@ -1,9 +1,8 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
+    blog: /
+    tools: /archives/
+    projects: /
+    GitHub: https://github.com/Robin-cm
 
 favicon: /favicon.png
 logo: /favicon.png
